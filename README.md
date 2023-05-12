@@ -20,10 +20,14 @@ Simple age and gender  detector using Machine Learning
 
 ## Sample Outputs:
 ### Sample Output 1:
-![output_image_1](https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/a73a6051-6960-4c44-adba-1ab672aba6be)
+<img src="https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/a73a6051-6960-4c44-adba-1ab672aba6be" width="600" height="500">
+
 ### Sample Output 2:
-![output_image_2](https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/791ece23-c391-4723-afeb-d39366343e4f)
+<img src="https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/791ece23-c391-4723-afeb-d39366343e4f" width="600" heighgt="500">
+
 ### Sample Output 3:
-![output_image_3](https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/362a149f-ec40-4daa-9c90-3c0fc406dafb)
+<img src="https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/362a149f-ec40-4daa-9c90-3c0fc406dafb" width="600" height="500">
+
 ### Sample Output 4:
-![output_image_4](https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/a3760de7-b4e3-4cb9-8950-dca2ba0e563a)
+<img src="https://github.com/Kavita-127/Age-Gender_Detector/assets/89763489/a3760de7-b4e3-4cb9-8950-dca2ba0e563a" width="600" height="500">
+
