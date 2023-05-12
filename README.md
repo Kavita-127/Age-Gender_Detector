@@ -20,10 +20,10 @@ Simple age and gender  detector using Machine Learning
 
 ## Sample Outputs:
 ### Sample Output 1:
-![Sample_Output_1](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/Screenshot%20(22).PNG)
+![Sample_Output_1](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/output_image_1.jpg)
 ### Sample Output 2:
-![Sample_Output_2](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/Screenshot%20(23).png)
+![Sample_Output_2](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/output_image_2.jpg)
 ### Sample Output 3:
-![Sample_Output_3](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/Screenshot%20(24).png)
+![Sample_Output_3](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/output_image_3.jpg)
 ### Sample Output 4:
-![Sample_Output_4](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/Screenshot%20(26).png)
+![Sample_Output_4](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/output_image_4.jpg)
