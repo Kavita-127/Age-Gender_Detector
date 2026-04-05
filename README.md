@@ -1,5 +1,20 @@
 # Age-Gender_Detector
-Simple age and gender  detector using Machine Learning
+This project predicts the age and gender of a person from an input image using computer vision and deep learning models. It provides a simple GUI interface where users can upload images and view predictions.
+
+## Features
+1. Detect faces in input images
+2. Predicts age group and gender
+3. GUI-based image upload system
+4. Uses deep learning (CNN-based pre-trained models)
+5. Simple and user-friendly interface
+
+## Tech Stack
+- Python
+- OpenCV
+- Deep Learning (CNN)
+- NumPy
+- Tkinter (GUI)
+
 ## To simply run this model:
 1. Clone this repository
 2. Run the [gui.py](https://github.com/Kavita-127/Age-Gender_Detector/blob/main/gui.py) file
